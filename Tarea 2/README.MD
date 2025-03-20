@@ -7,6 +7,12 @@ Antes de comenzar, asegúrate de tener instalado:
 
 - [Docker](https://www.docker.com/get-started) en tu sistema.
 - Acceso a línea de comandos para ejecutar los comandos de Docker.
+- Crear el dist del frontend
+#### Construir la aplicación para producción
+```
+cd frontend
+npm run build
+```
 
 #### ⚙ Tecnologías Utilizadas 
 
