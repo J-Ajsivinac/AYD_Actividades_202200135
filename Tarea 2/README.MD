@@ -1,6 +1,6 @@
 ## Tarea 2
 
-Este proyecto se puede ejecutar en un contenedor Docker en el puerto **80** de tu máquina local.
+Este proyecto se puede ejecutar en un contenedor Docker en el puerto **80**.
 
 ### 📌 Requisitos previos
 Antes de comenzar, asegúrate de tener instalado:
